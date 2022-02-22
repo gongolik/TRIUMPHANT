@@ -62,3 +62,10 @@ clear
 sudo adduser peter
 Mamamimi55%%
 sudo su - peter
+clear
+ls
+git status
+git commit -a -m " bash_history "
+git config --global user.email "olugbenga166@gmail.com"
+git status
+clear
